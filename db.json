@@ -1,44 +1,34 @@
 {
   "data": [
     {
-      "id": "9055",
-      "name": "mohd",
-      "email": "mohd@gmail.com",
-      "phone": "9999"
-    },
-    {
       "id": "468b",
       "name": "ibrahim",
       "email": "ibrahim@gmail.com",
-      "phone": "1111"
+      "mobile": "1111"
     },
     {
       "id": "f41a",
       "name": "zamin",
       "email": "zamin@gmail.com",
-      "phone": "9333"
+      "mobile": "9333"
     },
     {
-      "id": "2790",
-      "name": "John Doe",
-      "age": 30
+      "id": "0061",
+      "name": "ironman",
+      "email": "ironman@gmail.com",
+      "mobile": "2323"
     },
     {
-      "id": "de90",
-      "name": "John Doe",
-      "age": 30
+      "id": "d1b1",
+      "name": "batman",
+      "email": "batman@gmail.com",
+      "mobile": "3333"
     },
     {
-      "id": "b2a2",
-      "name": "dfrg",
-      "email": "dsf",
-      "mobile": "ds"
-    },
-    {
-      "id": "c92a",
-      "name": "dfrg",
-      "email": "dsf@ghhg.jj",
-      "mobile": "87678"
+      "id": "2800",
+      "name": "Mohd",
+      "email": "mohd@gmail.com",
+      "mobile": "8888"
     }
   ]
 }

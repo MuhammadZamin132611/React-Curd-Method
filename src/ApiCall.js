@@ -16,6 +16,9 @@ function ApiCall(){
       body:JSON.stringify(data)
     }).then((result)=>{
       console.log("result", result)
+      result.json().then((resp)=>{
+        console.warn(resp);
+      })
     })
   }
   return (
